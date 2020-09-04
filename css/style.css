@@ -191,7 +191,7 @@ a{
         top: 4rem;
         left:0px;
         right: 0px;
-        background: #EAE8E4;
+        background: #d1cec7;
        z-index: 500000;
        height:390px;
        width: 100%;
@@ -206,10 +206,12 @@ a{
        align-items: flex-start;
        justify-content: space-around;
         height: 350px;
+         padding-left: 14px;
     }
     .mid-nav-left{
         width: 100%;
         margin-top:12px;
+         padding-left: 14px;
     }
     .navbar .logo{
         order: 2;
